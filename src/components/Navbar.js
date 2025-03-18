@@ -6,76 +6,76 @@ export const Navbar = () => {
       // <div className="col-lg">
         <nav className="navbar navbar-expand-lg text-dark  fs-5">
           <div className="container">
-            <a className="navbar-brand fs-1 fw-1" href="#Home">
+            <a className="navbar-brand fs-1 fw-1" href="/HomeHome">
               Health First
             </a>
             <button
               className="navbar-toggler"
               type="button"
               data-bs-toggle="collapse"
-              data-bs-target="#collapsibleNavbar"
+              data-bs-target="/HomecollapsibleNavbar"
             >
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="collapsibleNavbar">
               <ul className="navbar-nav mx-auto">
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     Home
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     Pages
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     Recipes
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     Blog
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     Shop
                   </a>
                 </li>
               </ul>
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     Follow Us
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     <i className="fa fa-instagram text-dark icon"></i>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     <i className="fa fa-pinterest text-dark"></i>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     <i className="fa fa-twitter text-dark"></i>
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link" href="/Home">
+                    <i className="fa fa-facebook text-dark"></i>
                   </a>
                 </li>
               </ul>
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/Home">
                     <i className="bi bi-bag-check-fill text-dark "></i>
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="#">
-                    <i className="fa fa-pinterest text-dark"></i>
                   </a>
                 </li>
                 <button
